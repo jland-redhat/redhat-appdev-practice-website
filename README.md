@@ -12,7 +12,7 @@ If you would like to submit a pull against this repository and have it count tow
 
 In order to avoid wasting your time and ours, it is recommended that you submit an issue describing your contribution first.
 
-**Thank you! And happy hacking!!**
+**Thank you! And happy hacking!!** 
 
 ## Prerequisites
 * NodeJS >= 12
